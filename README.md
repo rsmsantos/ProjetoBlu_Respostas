@@ -1,2 +1,2 @@
 # ProjetoBlu_Respostas
-Repositorio criado para entregar as respostas e o projeto da empresa Blu
+Repositório criado para entregar as respostas e o projeto do processo seletivo da empresa Blu
